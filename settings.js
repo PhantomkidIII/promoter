@@ -10,7 +10,7 @@ global.location = "Africa,Nigeria" //ur location
 
 //new
 global.botname = 'QUEEN ALYA' //ur bot name
-global.ownernumber = '2349123721026' //ur owner number
+global.ownernumber = '2348084644182' //ur owner number
 global.ownername = 'KING' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D"
 global.wagc = "https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D"
@@ -20,8 +20,8 @@ global.botscript = 'https://github.com/STAR-KING0/Queen_Alya' //script link
 global.packname = "Sticker By"
 global.author = "KING\n\n+2349123721026"
 global.creator = "2349123721026@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["2349123721026"] // Premium User
+global.xprefix = '#'
+global.premium = ["2348084644182"] // Premium User
 global.hituet = 0
 
 //bot sett
